@@ -1,0 +1,126 @@
+{
+    "last_product_number": 111,
+    "products": {
+        "101": {
+            "product_id": "101",
+            "name": "Milk",
+            "category": "Dairy",
+            "cost_price": 20.0,
+            "selling_price": 25.0,
+            "stock_quantity": 18,
+            "qr_code_path": "qr_codes\\101.png",
+            "created_at": "2026-04-01T09:00:00",
+            "updated_at": "2026-04-05T10:15:00"
+        },
+        "102": {
+            "product_id": "102",
+            "name": "Bread",
+            "category": "Bakery",
+            "cost_price": 30.0,
+            "selling_price": 40.0,
+            "stock_quantity": 4,
+            "qr_code_path": "qr_codes\\102.png",
+            "created_at": "2026-04-01T09:05:00",
+            "updated_at": "2026-04-05T11:10:00"
+        },
+        "103": {
+            "product_id": "103",
+            "name": "Rice",
+            "category": "Groceries",
+            "cost_price": 45.0,
+            "selling_price": 60.0,
+            "stock_quantity": 28,
+            "qr_code_path": "qr_codes\\103.png",
+            "created_at": "2026-04-01T09:10:00",
+            "updated_at": "2026-04-04T04:40:00"
+        },
+        "104": {
+            "product_id": "104",
+            "name": "Eggs",
+            "category": "Dairy",
+            "cost_price": 4.0,
+            "selling_price": 6.0,
+            "stock_quantity": 60,
+            "qr_code_path": "qr_codes\\104.png",
+            "created_at": "2026-04-01T09:15:00",
+            "updated_at": "2026-04-05T12:25:00"
+        },
+        "105": {
+            "product_id": "105",
+            "name": "dove shampoo",
+            "category": "shampooes",
+            "cost_price": 200.0,
+            "selling_price": 400.0,
+            "stock_quantity": 277,
+            "qr_code_path": "qr_codes\\105.png",
+            "created_at": "2026-04-05T15:41:28",
+            "updated_at": "2026-04-05T15:58:10"
+        },
+        "106": {
+            "product_id": "106",
+            "name": "tooth brush",
+            "category": "brushes",
+            "cost_price": 30.0,
+            "selling_price": 40.0,
+            "stock_quantity": 700,
+            "qr_code_path": "qr_codes\\106.png",
+            "created_at": "2026-04-05T15:54:13",
+            "updated_at": "2026-04-05T15:58:10"
+        },
+        "107": {
+            "product_id": "107",
+            "name": "good knight coil",
+            "category": "coil",
+            "cost_price": 10.0,
+            "selling_price": 20.0,
+            "stock_quantity": 170,
+            "qr_code_path": "qr_codes\\107.png",
+            "created_at": "2026-04-05T15:54:47",
+            "updated_at": "2026-04-05T15:58:10"
+        },
+        "108": {
+            "product_id": "108",
+            "name": "pin",
+            "category": "pins",
+            "cost_price": 25.0,
+            "selling_price": 35.0,
+            "stock_quantity": 300,
+            "qr_code_path": "qr_codes\\108.png",
+            "created_at": "2026-04-06T21:30:09",
+            "updated_at": "2026-04-06T21:30:09"
+        },
+        "109": {
+            "product_id": "109",
+            "name": "paste",
+            "category": "pastes",
+            "cost_price": 20.0,
+            "selling_price": 30.0,
+            "stock_quantity": 200,
+            "qr_code_path": "qr_codes\\109.png",
+            "created_at": "2026-04-06T21:58:16",
+            "updated_at": "2026-04-06T21:58:16"
+        },
+        "110": {
+            "product_id": "110",
+            "name": "facewash",
+            "category": "body",
+            "cost_price": 200.0,
+            "selling_price": 300.0,
+            "stock_quantity": 300,
+            "qr_code_path": "qr_codes\\110.png",
+            "created_at": "2026-04-06T22:48:51",
+            "updated_at": "2026-04-06T22:48:51"
+        },
+        "111": {
+            "product_id": "111",
+            "name": "sunscreen",
+            "category": "bodycare",
+            "cost_price": 300.0,
+            "selling_price": 350.0,
+            "stock_quantity": 400,
+            "qr_code_path": "qr_codes\\111.png",
+            "created_at": "2026-04-06T22:55:00",
+            "updated_at": "2026-04-06T23:03:52"
+        }
+    }
+}

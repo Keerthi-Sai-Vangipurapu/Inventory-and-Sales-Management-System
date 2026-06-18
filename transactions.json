@@ -1,0 +1,126 @@
+{
+    "last_bill_number": 105,
+    "transactions": [
+        {
+            "bill_number": "101",
+            "timestamp": "2026-04-04T10:15:00",
+            "items": [
+                {
+                    "product_id": "101",
+                    "name": "Milk",
+                    "quantity": 2,
+                    "unit_price": 25.0,
+                    "cost_price": 20.0,
+                    "line_total": 50.0,
+                    "profit": 10.0
+                },
+                {
+                    "product_id": "102",
+                    "name": "Bread",
+                    "quantity": 1,
+                    "unit_price": 40.0,
+                    "cost_price": 30.0,
+                    "line_total": 40.0,
+                    "profit": 10.0
+                }
+            ],
+            "total_amount": 90.0,
+            "total_profit": 20.0
+        },
+        {
+            "bill_number": "102",
+            "timestamp": "2026-04-05T11:30:00",
+            "items": [
+                {
+                    "product_id": "104",
+                    "name": "Eggs",
+                    "quantity": 12,
+                    "unit_price": 6.0,
+                    "cost_price": 4.0,
+                    "line_total": 72.0,
+                    "profit": 24.0
+                },
+                {
+                    "product_id": "103",
+                    "name": "Rice",
+                    "quantity": 3,
+                    "unit_price": 60.0,
+                    "cost_price": 45.0,
+                    "line_total": 180.0,
+                    "profit": 45.0
+                }
+            ],
+            "total_amount": 252.0,
+            "total_profit": 69.0
+        },
+        {
+            "bill_number": "103",
+            "timestamp": "2026-04-05T15:53:04",
+            "items": [
+                {
+                    "product_id": "105",
+                    "name": "dove shampoo",
+                    "quantity": 3,
+                    "unit_price": 400.0,
+                    "cost_price": 200.0,
+                    "line_total": 1200.0,
+                    "profit": 600.0
+                }
+            ],
+            "total_amount": 1200.0,
+            "total_profit": 600.0
+        },
+        {
+            "bill_number": "104",
+            "timestamp": "2026-04-05T15:58:10",
+            "items": [
+                {
+                    "product_id": "106",
+                    "name": "tooth brush",
+                    "quantity": 300,
+                    "unit_price": 40.0,
+                    "cost_price": 30.0,
+                    "line_total": 12000.0,
+                    "profit": 3000.0
+                },
+                {
+                    "product_id": "105",
+                    "name": "dove shampoo",
+                    "quantity": 20,
+                    "unit_price": 400.0,
+                    "cost_price": 200.0,
+                    "line_total": 8000.0,
+                    "profit": 4000.0
+                },
+                {
+                    "product_id": "107",
+                    "name": "good knight coil",
+                    "quantity": 30,
+                    "unit_price": 20.0,
+                    "cost_price": 10.0,
+                    "line_total": 600.0,
+                    "profit": 300.0
+                }
+            ],
+            "total_amount": 20600.0,
+            "total_profit": 7300.0
+        },
+        {
+            "bill_number": "105",
+            "timestamp": "2026-04-06T23:01:10",
+            "items": [
+                {
+                    "product_id": "111",
+                    "name": "sunscreen",
+                    "quantity": 4,
+                    "unit_price": 350.0,
+                    "cost_price": 300.0,
+                    "line_total": 1400.0,
+                    "profit": 200.0
+                }
+            ],
+            "total_amount": 1400.0,
+            "total_profit": 200.0
+        }
+    ]
+}
